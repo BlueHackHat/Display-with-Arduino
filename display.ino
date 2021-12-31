@@ -23,6 +23,6 @@ void setup() {
 void loop() {
  display.setTextSize(1);
  display.setCursor(50, 50);
- display.print("Bennett is the best");
+ display.print("YOUR TEXT HERE");
  display.display();
 }
